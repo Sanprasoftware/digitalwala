@@ -5,6 +5,7 @@ app_description = "digitalwala"
 app_email = "sanprasoftwares@gmail.com"
 app_license = "mit"
 
+app_include_js = "/assets/digitalwala/js/custom_navbar.js"
 # Apps
 # ------------------
 
